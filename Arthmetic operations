@@ -1,0 +1,25 @@
+//java program to display Arthmetic operations
+/*file name:MyClass.java
+   date:02/08/2024
+   author:sai krishna*/
+import java.io.*;
+import java.util.*;
+ public class MyClass{
+    public static void main(String args[]){
+        int x=7;
+        int y=3;
+        int z=x+y;
+        System.out.println("Result of "+x+" and "+y+" = "+z);
+        int a=x-y;
+        System.out.println("Result of "+x+" - "+y+" = "+a);
+        int b=x*y;
+        System.out.println("Multiplication of "+x+" and "+y+" = "+b);
+        float c=(float)x/y;
+        System.out.println("Dvision of "+x+" and "+y+" = "+c);
+        int d=x%y;
+        System.out.println("Modulus of "+x+" and "+y+" = "+d);
+        double e=Math.sqrt(x);
+        System.out.println("Square root of "+x+"  = "+e);
+        
+    }
+ }    
