@@ -1,7 +1,7 @@
 // Java program to find sum of digits of a number until sum becomes single digit.
 /*file name:GfG
 date:15/10/2024
-author:sai
+author:sai krish
 */
 import java.util.*;
 public class GfG {
